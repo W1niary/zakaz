@@ -1,0 +1,23 @@
+h1 {
+    background-color:white;
+}
+.prostokat {
+    background-color:red;
+    text-align:center;
+}
+.kolo{
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	border-radius: 50%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+.kolo2{
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	border-radius: 50%;
+	position: relative;
+}
